@@ -1,0 +1,6 @@
+from CONTROLLER. CalculadoraController import CalculadoraController
+from CONTROLLER. MayorMenorController import MayorMenorController
+from CONTROLLER. ComboSimpleController import ComboSimpleController
+from CONTROLLER. ComboCascadacontroller import ComboCascadaController
+
+formulario = MayorMenorController()
